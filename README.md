@@ -1,1 +1,1 @@
-# ola-scooty-page
+# OLA-Electric-Landing-Page-Template
